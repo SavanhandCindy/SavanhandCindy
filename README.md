@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SavanhandCindy
 - 👀 I’m interested in Telephony
-- 🌱 I’m currently learning how to develope APIs
+- 🌱 I’m currently learning how to develop APIs
 - 💞️ I’m looking to collaborate on to be determined
 - 📫 How to reach me 
 - 😄 Pronouns: She, Her
